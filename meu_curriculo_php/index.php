@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -12,7 +11,7 @@
         <?php
         $nomeCompleto = "Caique de Souza Oliveira";
         $idade = 19;
-        $fotoPerfil = "Imagens/sua_foto.png";
+        $fotoPerfil = "Imagens/sua_foto.jpg";
         ?>
         <div class="perfil">
             <img src="<?php echo $fotoPerfil; ?>" alt="Foto de Perfil">
@@ -117,7 +116,7 @@
             ];
 
             $hobbies = [
-                "Programação" => 10, // Avalie seu nível de interesse de 0 a 10
+                "Programação" => 10, 
                 "Leitura" => 10,
             ];
         ?>

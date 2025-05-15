@@ -23,6 +23,7 @@ header {
 
 section {
     background-color: #fff;
+    color: #333;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 20px;
@@ -30,7 +31,7 @@ section {
 }
 
 h2, h3, h4 {
-    color: #333;
+    color: #1b0404;
     margin-top: 0;
 }
 
@@ -63,7 +64,7 @@ li:last-child {
 }
 
 .barra-nivel span {
-    background-color: #5cb85c;
+    background-color: #747070;
     height: 100%;
     border-radius: 5px;
     width: 10%;
@@ -71,7 +72,7 @@ li:last-child {
 }
 
 .barra-nivel span.hobby {
-    background-color: #007bff;
+    background-color: #0400ff;
 }
 
 footer {
